@@ -1,5 +1,6 @@
 # Powerbi_Mobile_Sales_Dashboard
-
+# Dashboard 
+![1_msd](https://github.com/user-attachments/assets/fc954c0a-f97f-4f8f-88c1-190723031ae9)
 # Insights from Mobile Sales Dashboard #
 # Total Sales Performance:
 Total Sales across all months: ₹769M.
